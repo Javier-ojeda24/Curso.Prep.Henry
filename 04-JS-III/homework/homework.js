@@ -143,7 +143,7 @@ function empiezaConNueve(n) {
   }else{
     false;
   }
-};
+}
 
 
 function todosIguales(arreglo) {
